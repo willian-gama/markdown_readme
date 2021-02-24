@@ -2,7 +2,7 @@ Getting started with Markdown
 =============================
 
 
-- [Getting started wiTH Markdown](#getting-started-with-markdown)
+- [Getting started with Markdown](#getting-started-with-markdown)
 - [Titles](#titles)
 - [Paragraph](#paragraph)
 - [List](#list)
